@@ -20,3 +20,8 @@ next_date（预计下次付款时间）, transactions（当前name下的所有�
 使用其默认的27017端口，可以存入任何信息。   
 注意：重复付款项的定义为，在固定时间间隔下的相似付款金额，即同一公司名下的定期付款项都有固定的时间间隔，但每次付款的金额可能会有变化，但变化不大。同时
 相同公司下的各转账项目一定包括公司名，但其后的流水号可能会有差别，例如：爱奇艺 102XG23 和 爱奇艺 131FF21。重复转账的金额可能为正也可能为负。
+
+### input sample
+![img](https://github.com/seuygr/solution/blob/master/image/%E8%BE%93%E5%85%A5%E5%BC%8F%E6%A0%B7.png)
+
+### output sample
